@@ -1,0 +1,22 @@
+{
+  "name": "exercises-with",
+  "version": "1.0.0",
+  "description": "Repository with solve problems of code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alrocha003/exercises-with-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alrocha003/exercises-with-js/issues"
+  },
+  "homepage": "https://github.com/alrocha003/exercises-with-js#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}

@@ -13,7 +13,6 @@ function getEntry(time) {
     }
     if (time == 0)
         return;
-
     getEntry(time);
 }
 
